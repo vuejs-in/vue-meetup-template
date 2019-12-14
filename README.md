@@ -47,3 +47,6 @@ Use any of the following methods to communicate with us:
 ## Organizers
 
 - VAR_ORGANIZER - [VAR_ORGANIZER_TWITTER](VAR_ORGANIZER_TWITTER_LINK)
+
+-------------
+This repository is created from [the vue-meetup-template](https://github.com/VueJS-IN/vue-meetup-template) by [znck](https://github.com/znck).
