@@ -74,6 +74,12 @@ export default {
   display: inline-block;
   margin-right: 1rem;
 }
+main.agenda ul {
+  list-style-type: none;
+}
+main.agenda ul li {
+  margin-bottom: 1em;
+}
 </style>
 
 
